@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-webpart",
+    "id": "f60cb412-d942-226e-9b3b-2a6ee23adbb2",
+    "version": "2.2.2.2",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": true,
+    "developer": {
+      "name": "karthik Saladi",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/react-web-part.sppkg"
+  }
+}

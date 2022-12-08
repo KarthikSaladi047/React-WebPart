@@ -1,0 +1,1 @@
+{"version":3,"file":"IReactCrudProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/reactCrud/components/IReactCrudProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAE5D,MAAM,WAAW,eAAe;IAC9B,WAAW,EAAE,MAAM,CAAC;IACpB,OAAO,EAAE,cAAc,CAAC;IACxB,OAAO,EAAE,MAAM,CAAC;CACjB"}

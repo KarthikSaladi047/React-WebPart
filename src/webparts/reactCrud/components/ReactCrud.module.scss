@@ -1,0 +1,68 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+.firstdiv{
+  .crudWithReact {
+    background-image: url("./Images/pexels-kris-lucas-3742734.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .header{
+  background-image: url("https://cdn.wallpapersafari.com/34/32/fD3Gir.jpg");  
+    }
+  .headerlabel{
+    padding-top: 20px;
+    text-align: center;
+    -moz-text-size-adjust: auto;
+    font-size:41px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(3, 174, 226);
+  }
+  .img{
+  padding-top: 20px;
+  padding-left: 20px;
+  height: 50px;
+  width: 120px;
+  float: left;
+}
+    
+  .main{
+    padding: 50px;
+    color: rgb(12, 2, 2);
+    @include ms-fontColor-white;
+  }
+  .Mystyle{
+    color: black;
+  }
+  .Status{
+    color:rgb(14, 255, 14);
+    text-align: center;
+  }
+  .heading{
+    text-align: center;
+    color: black;
+    height: 30px;
+    font-size: large;
+    font-weight: 200;
+    background-color: orange;
+  }
+  .totallist{
+    border-style:double;
+    color: green;
+  }
+  .title {
+    flex-direction: column;
+    padding-left: 50px;  ;
+    @include ms-font-xl;
+    @include ms-fontColor-white;
+  }
+  .text{
+    color: white;
+    font-weight: 400;
+    border-bottom:100px;
+  }
+  
+}
+
+
+
+  
